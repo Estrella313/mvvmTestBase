@@ -5,8 +5,6 @@
 //  Created by Danya Estrella on 22/06/22.
 //
 import UIKit
-// MARK: The model layer is responsible for the business logic of the application. It manages the application state. This also includes reading and writing data, persisting application state, and it may even include tasks related to data management, such as networking and data validation.
-
 // MARK: Un simple model. 
 typealias Pokemons = [Pokemon]
 
